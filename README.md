@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://jokerjaas2002.github.io/Tribute/)
+[Live Demo Link](https://jokerjaas2002.github.io/Clock/)
 
 ## Getting Started
 
